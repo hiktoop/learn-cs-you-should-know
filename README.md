@@ -1,6 +1,6 @@
 # learncsyoushouldknow
-some really useful websites I used for learning cs technique.
-
+Some really useful websites I used for learning cs technique.
+Welcome your addition.
 
 ## atlas
 - [csdiy](https://csdiy.wiki/)
