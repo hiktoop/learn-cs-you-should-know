@@ -1,4 +1,4 @@
-# learncsyoushouldknow
+# learn cs you should know
 Some really useful websites I used for learning cs technique.
 Welcome your addition.
 
