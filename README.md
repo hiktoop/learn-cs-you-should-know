@@ -9,13 +9,14 @@ Welcome your addition.
 ## data structure and algorithm
 - [oi wiki](https://oi-wiki.org/)
 - [Bioinformatics Lectures](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/)
-- https://dsa.cs.tsinghua.edu.cn/~deng/index.htm
+- [dsa course from j.deng](https://dsa.cs.tsinghua.edu.cn/~deng/index.htm)
 
-## books
+## design pattern
+- [game programing patterns](https://gameprogrammingpatterns.com/)
+
+## language
 - [sicp](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
-
-## compiler
-- [lox crafting interpreter](https://craftinginterpreters.com/)
+- [crafting interpreter](https://craftinginterpreters.com/)
 
 ## raft
 - http://thesecretlivesofdata.com/raft/
