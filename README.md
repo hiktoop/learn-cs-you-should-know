@@ -10,6 +10,7 @@ Welcome your addition.
 - [oi wiki](https://oi-wiki.org/)
 - [Bioinformatics Lectures](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/)
 - [dsa course from j.deng](https://dsa.cs.tsinghua.edu.cn/~deng/index.htm)
+- [computational geometry](https://graphics.stanford.edu/courses/cs268-16-fall/Notes/cmsc754-lects.pdf)
 
 ## design pattern
 - [game programing patterns](https://gameprogrammingpatterns.com/)
