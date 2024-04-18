@@ -36,6 +36,9 @@ Welcome your addition.
 - [git](https://education.github.com/git-cheat-sheet-education.pdf)
 - [git](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 
+## debug
+- [valgrind](https://web.stanford.edu/class/cs107/resources/valgrind#memory-errors-vs-memory-leaks)
+
 ## raft
 - http://thesecretlivesofdata.com/raft/
 - https://raft.github.io/
