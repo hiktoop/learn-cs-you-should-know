@@ -48,5 +48,8 @@ Welcome your addition.
 ### math
 - [random number generators: good ones are hard to find](https://dl.acm.org/doi/10.1145/63039.63042)
 
-### 
+### memory
+- [Dynamic Storage Allocation: A Survey and Critical Review](https://csapp.cs.cmu.edu/3e/docs/dsa.pdf)
+
+### code style
 -[beautiful code](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
