@@ -50,6 +50,7 @@ Welcome your addition.
 
 ### memory
 - [Dynamic Storage Allocation: A Survey and Critical Review](https://csapp.cs.cmu.edu/3e/docs/dsa.pdf)
+- [BLOCKING: Using Blocking to Increase Temporal Locality](https://csapp.cs.cmu.edu/3e/waside/waside-blocking.pdf)
 
 ### code style
 -[beautiful code](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
